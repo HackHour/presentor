@@ -1,0 +1,18 @@
+mixin c_link(path)
+  link(href='css/#{path}.css',rel='stylesheet')
+  
+mixin make_script(name,_type)
+  script(type=_type,src=name)
+
+//maybe someday ...
+//mixin a_slide(name)
+//  include:markdown slide_dir/#{name}.md
+
+mixin c_script(name)
+  - var bp = base_path
+  +make_script(bp+'coffeescript/'+name+'coffee',
+  'application/coffeescript')
+
+mixin j_script(name)
+  - var bp = base_path
+  +make_script(bp+'js/'+name+'.js','application/javascript')

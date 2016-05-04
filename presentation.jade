@@ -1,0 +1,21 @@
+- base_path = './' 
+  
+include jlib/basic
+
+doctype html
+
+html
+  head
+    +c_link('reveal')
+    +c_link('theme/white')
+    +j_script('reveal')
+    script(type='application/javascript').
+      window.onload = function(){
+        Reveal.initialize();
+      };
+  body
+    .reveal
+      .slides
+        block slides
+    //script.
+    //  Reveal.initialize();
