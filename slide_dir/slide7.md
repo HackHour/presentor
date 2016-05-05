@@ -3,7 +3,8 @@ Frameworks
 
 ###Exploration - Real world 'frameworks'
 
-* React
+* ReactiveX
+* Bluebird JS
 * DSS/ES
 * Machine Learning
 * Libraries

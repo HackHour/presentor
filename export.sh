@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 
-
 folder=$(date +%y%m%d)
 
 if [ "" != "${1}" ]; then
@@ -16,4 +15,3 @@ fi
 
 
 cp -R -t ${DIST} js lib css slides.html
-
