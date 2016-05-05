@@ -1,13 +1,11 @@
-Presentor
-=========
+Frameworks
+==========
 
-###Why shouldn't you use this?
+###Agile
 
+How do frameworks fit into this philosophy?
 
-Presentor isn't for everybody (yet). You shouldn't use it if:
-
-* you don't like markdown
-* you need to use fancy 3d animations or something
-* you aren't comfortable with opening text files (although what your biz 
-using a computer is I have to seriously question)
-* you can't run scripts/follow instructions
+* **Individuals and interactions** over _processes and tools_
+* **Working software** over _comprehensive documentation_
+* **Customer collaboration** over _contract negotiation_
+* **Responding to change** over _following a plan_

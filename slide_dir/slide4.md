@@ -1,11 +1,10 @@
-Presentor
-=========
+Frameworks
+==========
 
-###Why not use <insert online slide deck here>
+###Software development toolset - overview
 
-Because they all either (non exclusively):
+We probably need a system to reason about systems
 
-* aren't free
-* aren't open source
-* suck
-* don't use markdown and want to use some crazy custom shit
+* patterns for thinking about systems
+* metrics & visualizations
+* pragmaticism

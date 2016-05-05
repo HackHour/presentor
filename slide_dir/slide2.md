@@ -1,6 +1,9 @@
-Presentor
-=========
+Frameworks
+==========
 
-###How do I use it?
+###Purpose and scope of talk
 
-Modify these slides
+* Examine meaning of the term
+* Learn how to evaluate frameworks
+* Provide a framework for evaluating frameworks
+* Explore interesting classese of frameworks/approaches
