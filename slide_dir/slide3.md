@@ -6,3 +6,4 @@ Frameworks
 * artifacts
 * concepts
 * systems
+* verbal

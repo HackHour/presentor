@@ -6,4 +6,4 @@ Frameworks
 * Examine meaning of the term
 * Learn how to evaluate frameworks
 * Provide a framework for evaluating frameworks
-* Explore interesting classese of frameworks/approaches
+* Explore interesting classes of frameworks/approaches
