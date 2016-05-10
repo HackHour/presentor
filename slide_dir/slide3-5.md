@@ -1,7 +1,6 @@
-Frameworks
-==========
+##Frameworks - Definitions
 
-### Definitions - taking a step back
+### taking a step back
 
 What does it mean?
 

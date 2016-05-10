@@ -1,7 +1,6 @@
-Frameworks
-==========
+##Frameworks - Definitions
 
-### Definitions - systems
+###  - systems
 
 * DSLs
 * Operating Systems

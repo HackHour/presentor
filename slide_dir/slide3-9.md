@@ -1,7 +1,6 @@
-Frameworks
-==========
+##Frameworks - Definitions
 
-### Definitions - what it means to be a computer (4)
+### what it means to be a computer (4)
 
 * Operating System Utilities
 * Threading

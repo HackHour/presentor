@@ -1,8 +1,6 @@
-Frameworks
-==========
+##Frameworks - Definitions
 
-
-### Definitions - what it means to be a computer (5)
+### what it means to be a computer (5)
 
 * Java
 * JSR Scriptlet spec

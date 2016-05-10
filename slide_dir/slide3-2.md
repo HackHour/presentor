@@ -1,7 +1,6 @@
-Frameworks
-==========
+##Frameworks - Definitions
 
-### Definitions - concepts
+### concepts
 
 * inversion of control
   * library vs framework

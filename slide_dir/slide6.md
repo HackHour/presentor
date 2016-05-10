@@ -1,7 +1,7 @@
 Frameworks
 ==========
 
-###Investigating
+###Investigating (1)
 
 Pulling it all together...
 
@@ -11,9 +11,3 @@ Pulling it all together...
 * scope
 * number of people using
 * bugs
-* easy to extend
-* documentation
-* speed of setup
-  * knowledge of ecosystem
-  * memes
-* genetic approach ???

@@ -1,7 +1,6 @@
-Frameworks
-==========
+##Frameworks - Definitions
 
-### Definitions - verbal
+### verbal
 
 * "a software framework is an abstraction in which software providing generic
  functionality can be selectively changed by additional user-written code" - 

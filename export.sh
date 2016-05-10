@@ -1,17 +1,16 @@
 #!/usr/bin/env bash
 
 
-folder=$(date +%y%m%d)
-
 if [ "" != "${1}" ]; then
-  folder="${1}"
+  DIST="${1}"
+else
+  folder=$(date +%y%m%d)
+  DIST=dist/${folder}
 fi
-
-DIST=dist/${folder}
 
 if [ ! -e ${DIST} ]; then
   mkdir -p ${DIST}
 fi
 
 
-cp -R -t ${DIST} js lib css slides.html
+cp -H -R -t ${DIST} js lib css slides.html

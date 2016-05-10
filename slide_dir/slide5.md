@@ -1,7 +1,5 @@
-Frameworks
-==========
-
-###Agile
+Frameworks - Agile
+==================
 
 How do frameworks fit into this philosophy?
 

@@ -1,7 +1,4 @@
-Frameworks
-==========
-
-###Agile
+##Frameworks - Agile
 
 **Individuals and interactions** over _processes and tools_
 

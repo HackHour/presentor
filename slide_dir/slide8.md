@@ -1,7 +1,4 @@
-Frameworks
-==========
-
-###Classification - components & overview
+##Frameworks - Classification
 
 * Wrapper
 * Architecture

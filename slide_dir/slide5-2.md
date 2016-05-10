@@ -1,7 +1,4 @@
-Frameworks
-==========
-
-###Agile
+##Frameworks - Agile
 
 **Working software** over _comprehensive documentation_
 

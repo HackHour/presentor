@@ -1,7 +1,4 @@
-Frameworks
-==========
-
-###Agile
+##Frameworks - Agile
 
 **Responding to change** over _following a plan_
 

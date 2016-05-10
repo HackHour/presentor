@@ -1,7 +1,4 @@
-Frameworks
-==========
-
-###Agile
+##Frameworks - Agile
 
 **Customer collaboration** over _contract negotiation_
 
